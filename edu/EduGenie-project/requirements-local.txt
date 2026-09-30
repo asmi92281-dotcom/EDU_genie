@@ -1,0 +1,5 @@
+# Optional local explanation backend from the project documentation.
+# Install this only when EXPLANATION_BACKEND=local.
+torch>=2.2
+transformers>=4.45
+sentencepiece>=0.2
